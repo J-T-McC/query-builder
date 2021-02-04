@@ -3,7 +3,7 @@
 ### NOTE: This repository is not for use in production applications
 
 In my years as a developer I have found myself interacting with different databases using many methods. In the earlier years
-I would often be directly using PDO and mysqli, but the later years primarily using query builders like the
+I would often be directly using PDO and mysqli, in the later years primarily using query builders like the
 Illuminate builder in Laravel. Throughout all of this time I had never actually built a query builder/pdo wrapper myself. 
 
 I wanted to give it a try and see what I could come up with in a couple of days, hopefully encountering and solving the same problems that the developers
