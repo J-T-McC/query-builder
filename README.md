@@ -1,6 +1,6 @@
 # Query Builder
 
-###NOTE: This repository is not for use in production applications
+### NOTE: This repository is not for use in production applications
 
 In my years as a developer I have found myself interacting with different databases using many methods. In the earlier years
 I would often be directly using PDO and mysqli, but the later years primarily using query builders like the
